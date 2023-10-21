@@ -1,0 +1,246 @@
+[
+    {
+        "Name": "praveen.mythics.dev. ",
+        " IP": "192.168.1.6"
+    },
+    {
+        "Name": "zfs01.mythics.dev. ",
+        " IP": "192.168.1.8"
+    },
+    {
+        "Name": "linuxts1.mythics.dev. ",
+        " IP": "192.168.1.9"
+    },
+    {
+        "Name": "vmovmm.mythics.dev. ",
+        " IP": "192.168.1.12"
+    },
+    {
+        "Name": "mvpoem01.mythics.dev. ",
+        " IP": "192.168.1.14"
+    },
+    {
+        "Name": "xd0301.mythics.dev. ",
+        " IP": "192.168.1.15"
+    },
+    {
+        "Name": "xd0302.mythics.dev. ",
+        " IP": "192.168.1.16"
+    },
+    {
+        "Name": "xd0301-vip2.mythics.dev. ",
+        " IP": "192.168.1.17"
+    },
+    {
+        "Name": "xd0302-vip2.mythics.dev. ",
+        " IP": "192.168.1.18"
+    },
+    {
+        "Name": "xd03-scan2.mythics.dev. ",
+        " IP": "192.168.1.19"
+    },
+    {
+        "Name": "xd03-scan2.mythics.dev. ",
+        " IP": "192.168.1.20"
+    },
+    {
+        "Name": "scn01.mythics.dev. ",
+        " IP": "192.168.1.21"
+    },
+    {
+        "Name": "scn02.mythics.dev. ",
+        " IP": "192.168.1.22"
+    },
+    {
+        "Name": "xd03-scan2.mythics.dev. ",
+        " IP": "192.168.1.23"
+    },
+    {
+        "Name": "oradb.mythics.dev. ",
+        " IP": "192.168.1.24"
+    },
+    {
+        "Name": "oem.mythics.dev. ",
+        " IP": "192.168.1.25"
+    },
+    {
+        "Name": "orawls.mythics.dev. ",
+        " IP": "192.168.1.26"
+    },
+    {
+        "Name": "server.mythics.dev. ",
+        " IP": "192.168.1.30"
+    },
+    {
+        "Name": "sld02.mythics.dev. ",
+        " IP": "192.168.1.31"
+    },
+    {
+        "Name": "sparc01.mythics.dev. ",
+        " IP": "192.168.1.32"
+    },
+    {
+        "Name": "sparc02.mythics.dev. ",
+        " IP": "192.168.1.33"
+    },
+    {
+        "Name": "s10dom1.mythics.dev. ",
+        " IP": "192.168.1.34"
+    },
+    {
+        "Name": "s10dom2.mythics.dev. ",
+        " IP": "192.168.1.35"
+    },
+    {
+        "Name": "vmdock01.mythics.dev. ",
+        " IP": "192.168.1.36"
+    },
+    {
+        "Name": "jumpsvr.mythics.dev. ",
+        " IP": "192.168.1.37"
+    },
+    {
+        "Name": "aisvr.mythics.dev. ",
+        " IP": "192.168.1.38"
+    },
+    {
+        "Name": "aiinstall.mythics.dev. ",
+        " IP": "192.168.1.39"
+    },
+    {
+        "Name": "sld01.mythics.dev. ",
+        " IP": "192.168.1.40"
+    },
+    {
+        "Name": "xcn01.mythics.dev. ",
+        " IP": "192.168.1.41"
+    },
+    {
+        "Name": "xcn02.mythics.dev. ",
+        " IP": "192.168.1.42"
+    },
+    {
+        "Name": "xcn03.mythics.dev. ",
+        " IP": "192.168.1.43"
+    },
+    {
+        "Name": "xcn04.mythics.dev. ",
+        " IP": "192.168.1.44"
+    },
+    {
+        "Name": "xcn05.mythics.dev. ",
+        " IP": "192.168.1.45"
+    },
+    {
+        "Name": "xcn06.mythics.dev. ",
+        " IP": "192.168.1.46"
+    },
+    {
+        "Name": "solaris10-js.mythics.dev. ",
+        " IP": "192.168.1.54"
+    },
+    {
+        "Name": "solaris113-js.mythics.dev. ",
+        " IP": "192.168.1.55"
+    },
+    {
+        "Name": "vcenter.mythics.dev. ",
+        " IP": "192.168.1.59"
+    },
+    {
+        "Name": "gold.mythics.dev. ",
+        " IP": "192.168.1.60"
+    },
+    {
+        "Name": "xd01db01.mythics.dev. ",
+        " IP": "192.168.1.71"
+    },
+    {
+        "Name": "xd01db02.mythics.dev. ",
+        " IP": "192.168.1.72"
+    },
+    {
+        "Name": "ohb121.mythics.dev. ",
+        " IP": "192.168.1.121"
+    },
+    {
+        "Name": "ohb122.mythics.dev. ",
+        " IP": "192.168.1.122"
+    },
+    {
+        "Name": "ohb123.mythics.dev. ",
+        " IP": "192.168.1.123"
+    },
+    {
+        "Name": "ohb124.mythics.dev. ",
+        " IP": "192.168.1.124"
+    },
+    {
+        "Name": "ohb125.mythics.dev. ",
+        " IP": "192.168.1.125"
+    },
+    {
+        "Name": "xd0101.mythics.dev. ",
+        " IP": "192.168.1.135"
+    },
+    {
+        "Name": "xd0102.mythics.dev. ",
+        " IP": "192.168.1.136"
+    },
+    {
+        "Name": "xd0101-vip.mythics.dev. ",
+        " IP": "192.168.1.137"
+    },
+    {
+        "Name": "xd0102-vip.mythics.dev. ",
+        " IP": "192.168.1.138"
+    },
+    {
+        "Name": "cli1db-scan.mythics.dev. ",
+        " IP": "192.168.1.139"
+    },
+    {
+        "Name": "cli1db-scan.mythics.dev. ",
+        " IP": "192.168.1.140"
+    },
+    {
+        "Name": "cli1db-scan.mythics.dev. ",
+        " IP": "192.168.1.141"
+    },
+    {
+        "Name": "vmdocker01.mythics.dev. ",
+        " IP": "192.168.1.231"
+    },
+    {
+        "Name": "vmdocker02.mythics.dev. ",
+        " IP": "192.168.1.232"
+    },
+    {
+        "Name": "vmdocker03.mythics.dev. ",
+        " IP": "192.168.1.233"
+    },
+    {
+        "Name": "vmdocker04.mythics.dev. ",
+        " IP": "192.168.1.234"
+    },
+    {
+        "Name": "vmdep01.mythics.dev. ",
+        " IP": "192.168.1.240"
+    },
+    {
+        "Name": "vmpxe01.mythics.dev. ",
+        " IP": "192.168.1.241"
+    },
+    {
+        "Name": "vmdocker05.mythics.dev. ",
+        " IP": "192.168.1.242"
+    },
+    {
+        "Name": "vmdns01.mythics.dev. ",
+        " IP": "192.168.1.253"
+    },
+    {
+        "Name": "vmdns02.mythics.dev. ",
+        " IP": "192.168.1.254"
+    }
+]
