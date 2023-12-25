@@ -1,11 +1,11 @@
 
-Problem 1
+# Problem 1
 Transformations on the input file : file1
 
 file1 to file2
 file2 to file3.json
 
-Problem 2
+# Problem 2
 Write a program in Go to accept an interactive input keyword string and by using that read string , search through the data loaded from problem2.json file and print out the url name if a input string matches the name and/or description.
 
 Bonus Problem
